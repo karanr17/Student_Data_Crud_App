@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "name": "Henry",
+      "eng": 35,
+      "maths": 37,
+      "science": 47,
+      "hindi": 38,
+      "marathi": 37,
+      "id": 1
+    },
+    {
+      "name": "Goku",
+      "eng": 95,
+      "maths": 97,
+      "science": 97,
+      "hindi": 90,
+      "marathi": 92,
+      "id": 2
+    },
+    {
+      "name": "Yu Haan",
+      "eng": 85,
+      "maths": 87,
+      "science": 87,
+      "hindi": 78,
+      "marathi": 87,
+      "id": 3
+    },
+    {
+      "name": "Sam",
+      "eng": 87,
+      "maths": 84,
+      "science": 67,
+      "hindi": 75,
+      "marathi": 65,
+      "id": 4
+    },
+    {
+      "name": "Jay",
+      "eng": 85,
+      "maths": 87,
+      "science": 87,
+      "hindi": 78,
+      "marathi": 87,
+      "id": 5
+    },
+    {
+      "name": "Rohan",
+      "eng": 44,
+      "maths": 47,
+      "science": 47,
+      "hindi": 38,
+      "marathi": 37,
+      "id": 6
+    },
+    {
+      "name": "Andrew",
+      "eng": 95,
+      "maths": 90,
+      "science": 97,
+      "hindi": 88,
+      "marathi": 87,
+      "id": 7
+    },
+    {
+      "name": "Golu",
+      "eng": 35,
+      "maths": 27,
+      "science": 27,
+      "hindi": 48,
+      "marathi": 27,
+      "id": 8
+    },
+    {
+      "name": "Parth",
+      "eng": 87,
+      "maths": 84,
+      "science": 67,
+      "hindi": 75,
+      "marathi": 65,
+      "id": 9
+    },
+    {
+      "name": "Ramesh",
+      "eng": 67,
+      "maths": 80,
+      "science": 75,
+      "hindi": 70,
+      "marathi": 67,
+      "id": 10
+    },
+    {
+      "name": "Suresh",
+      "eng": 35,
+      "maths": 47,
+      "science": 40,
+      "hindi": 40,
+      "marathi": 58,
+      "id": 11
+    },
+    {
+      "name": "Hemang",
+      "eng": 70,
+      "maths": 66,
+      "science": 50,
+      "hindi": 50,
+      "marathi": 54,
+      "id": 12
+    },
+    {
+      "name": "Sandesh",
+      "eng": 88,
+      "maths": 78,
+      "science": 90,
+      "hindi": 85,
+      "marathi": 70,
+      "id": 13
+    },
+    {
+      "name": "Fahim",
+      "eng": 70,
+      "maths": 75,
+      "science": 80,
+      "hindi": 80,
+      "marathi": 80,
+      "id": 14
+    },
+    {
+      "name": "Faizal",
+      "eng": 75,
+      "maths": 75,
+      "science": 65,
+      "hindi": 60,
+      "marathi": 55,
+      "id": 15
+    }
+  ]
+}
